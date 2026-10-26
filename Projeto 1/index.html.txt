@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>ADCEO</title>
+</head>
+<body>
+    <h1>ADCEO</h1>
+
+    <p>O ADCEO é um clube de futebol.</p>
+    <p>O clube reúne jogadores, treinadores e adeptos que gostam de futebol.</p>
+
+    <h2>O que se faz no clube</h2>
+    <ol>
+        <li>Treinar</li>
+        <li>Jogar futebol</li>
+        <li>Participar em competições</li>
+    </ol>
+
+    <h2>Valores do futebol</h2>
+    <ul>
+        <li>Trabalho em equipa</li>
+        <li>Respeito</li>
+        <li>Dedicação</li>
+    </ul>
+
+    <p>
+        <a href="pag2.html">Ver mais sobre o ADCEO</a>
+    </p>
+</body>
+</html>
+pag2.html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Mais sobre o ADCEO</title>
+</head>
+<body>
+    <h1>Mais sobre o ADCEO</h1>
+
+    <p>O futebol ajuda os jogadores a praticar desporto e a trabalhar em equipa.</p>
+
+    <h2>Imagem do clube</h2>
+    <img src="adceo.jpg" alt="Imagem relacionada com o ADCEO" width="300">
+
+    <h2>Vídeo de futebol</h2>
+    <video src="adceo.mp4" controls width="400">
+        O teu navegador não consegue reproduzir este vídeo.
+    </video>
+
+    <h2>Atividades do clube</h2>
+    <table border="1">
+        <tr>
+            <th>Atividade</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td>Treinos</td>
+            <td>Preparação dos jogadores</td>
+        </tr>
+        <tr>
+            <td>Jogos</td>
+            <td>Participação em partidas de futebol</td>
+        </tr>
+    </table>
+
+    <p>
+        <a href="index.html">Voltar à página inicial</a>
+    </p>
+</body>
+</html>
